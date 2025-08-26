@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>boostrap site</title>
+    <link href="bootstrap-5.3.8-dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Titulo de nìvel 1</h1>
+        <h2>Titulo de nìvel 2</h2>
+        <h3>Titulo de nìvel 3</h3>
+        <h4>Titulo de nìvel 4</h4>
+        <h5>Titulo de nìvel 5</h5>
+        <h6>Titulo de nìvel 6</h6>
+    </div>
+
+
+    <div class="container">
+        <p class="class">texto</p>
+        <p class="class">texto</p>
+        <p class="class">texto</p>
+        <p class="class">texto</p>
+        <p class="lead">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed officiis saepe earum aspernatur dicta fuga quis enim rerum placeat praesentium? Itaque perferendis inventore laborum voluptatibus eum dolor minus quidem est ipsum sapiente unde ea dolores obcaecati, delectus adipisci ad asperiores natus provident impedit nostrum sequi! Qui aut adipisci voluptatem possimus ratione ad iure delectus amet, numquam ex esse soluta voluptates autem eaque incidunt nemo saepe suscipit placeat fugit molestias provident illum neque nesciunt. Nihil ipsa porro deserunt ex officia modi fuga doloribus commodi vero esse voluptatem veniam illo maxime, cumque molestiae, accusamus odio accusantium pariatur iusto reprehenderit autem cupiditate vel. Hic voluptates harum praesentium cum? Perspiciatis doloribus architecto velit ratione aperiam dolorem minus mollitia alias veritatis pariatur voluptate veniam sunt soluta iste tenetur quos quaerat blanditiis debitis eius, ipsum magni? Error doloremque sed iure deserunt rem placeat quod perferendis velit, dolorem deleniti praesentium, repellendus, nulla eveniet? Blanditiis fugit odit earum id non deleniti illum recusandae reprehenderit incidunt deserunt, temporibus fuga quasi, quis esse pariatur. Quas aliquam, eum dignissimos, numquam ex qui voluptatem voluptate et consequatur autem laudantium dolor iure id similique dolore esse hic dolores quod sequi minus! Corporis ipsam aliquid veniam! Dolores illo nisi suscipit nulla eaque numquam neque.
+        </p>
+    </div>
+    
+</body>
+
+
+</html>
