@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+
+
+<body>
+    <div class="containerp-5">
+        <div class="col-4 p-4 mx-auto bg-success border border-dark border-5 border-opacity-50"></div>
+        <div class="col-5 p-5 mx-auto bg-primary border border-dark border-3 border-top border-opacity-75 border-shadow"></div>
+        <div class="col-3 p-4 ms-auto bg-dark border rounded rounded-1 rounded-circle rounded-pill rounded"></div>
+    </div>
+
+    <P class="text-center text-capitalize">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda facere amet corrupti facilis quos officia repellat nam sunt nemo, placeat perferendis architecto quam exercitationem veritatis! Cupiditate assumenda nisi dolore quos eos unde non. Rem fugiat dolorum, nostrum quam quo asperiores pariatur voluptatem explicabo, aliquam, magni blanditiis eligendi perferendis iste quod.
+    </P>
+
+    <P class="text-center text-capitalize text-decoration-underlining">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda facere amet corrupti facilis quos officia repellat nam sunt 
+            nemo, placeat perferendis architecto quam exercitationem veritatis! Cupiditate assumenda nisi dolore quos eos unde non. Rem 
+            fugiat dolorum, nostrum quam quo asperiores pariatur voluptatem explicabo, aliquam, magni blanditiis eligendi perferendis iste 
+            quod.
+    </P>
+    <!-- 
+    alinhamento: text-center, text-end, text-start
+    maiuscula e minuscula: text-uppercase, text-lowercase,textcapitalize
+    tamanho do texto: text-bold, text-semibold, text-normal, text-light
+    quebras: text-nowrap, text-break
+    estilo de fonte: fst-italic, fst-normal, text-decoration-line-through                                                                              
+    -->
+</body>
+
+
+</html>
