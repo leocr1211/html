@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+
+<body>
+
+    <table class="table tabel-striped table-hover table-sucess table-bordered">
+        <thead>
+            <tr>
+                <th>Coluna 1</th>
+                <th>Coluna 2</th>
+                <th>Coluna 3</th>
+                <th>Coluna 4</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Coluna 1</td>
+                <td>Coluna 2</td>
+                <td>Coluna 3</td>
+                <td>Coluna 4</td>
+            </tr>
+        </tbody>
+
+        <tbody class="table-group">
+            <tr>
+                <td class="table-active">Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium esse
+                    aliquam, doloribus adipisci eveniet architecto,
+                    modi odio laudantium beatae recusandae eaque velit alias culpa omnis rerum aperiam vel magnam
+                    maiores inventore. Doloribus iure voluptates alias commodi. Distinctio ex a atque.</td>
+                <td>Coluna 1</td>
+                <td>Coluna 2</td>
+                <td>Coluna 3</td>
+                <td>Coluna 4</td>
+            </tr>
+        </tbody>
+
+        <tbody>
+            <tr>
+                <td>Coluna 1</td>
+                <td>Coluna 2</td>
+                <td>Coluna 3</td>
+                <td>Coluna 4</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+<div class="table table-responsive">
+    <table class="table tabel-striped table-hover table-sucess table-bordered table-responsive">
+        <td>Coluna 1</td>
+        <td>Coluna 2</td>
+        <td>Coluna 3</td>
+        <td>Coluna 4</td>
+        <td>Coluna 5</td>
+        <td>Coluna 6</td>
+        <td>Coluna 7</td>
+        <td>Coluna 8</td>
+        <td>Coluna 9</td>
+        <td>Coluna 10</td>
+        <td>Coluna 11</td>
+        <td>Coluna 12</td>
+        <td>Coluna 13</td>
+        <td>Coluna 14</td>
+        <td>Coluna 15</td>
+        <td>Coluna 16</td>
+        <td>Coluna 17</td>
+        <td>Coluna 18</td>
+        <td>Coluna 19</td>
+        <td>Coluna 20</td>
+        <td>Coluna 21</td>
+        <td>Coluna 22</td>
+        <td>Coluna 23</td>
+        <td>Coluna 24</td>
+        <td>Coluna 25</td>
+        <td>Coluna 26</td>
+        <td>Coluna 27</td>
+        <td>Coluna 28</td>
+        <td>Coluna 29</td>
+        <td>Coluna 30</td>
+    </table>
+
+        <table class="table tabel-striped table-hover table-sucess table-bordered table-responsive">
+        <td>Coluna 1</td>
+        <td>Coluna 2</td>
+        <td>Coluna 3</td>
+        <td>Coluna 4</td>
+        <td>Coluna 5</td>
+        <td>Coluna 6</td>
+        <td>Coluna 7</td>
+        <td>Coluna 8</td>
+        <td>Coluna 9</td>
+        <td>Coluna 10</td>
+        <td>Coluna 11</td>
+        <td>Coluna 12</td>
+        <td>Coluna 13</td>
+        <td>Coluna 14</td>
+        <td>Coluna 15</td>
+        <td>Coluna 16</td>
+        <td>Coluna 17</td>
+        <td>Coluna 18</td>
+        <td>Coluna 19</td>
+        <td>Coluna 20</td>
+        <td>Coluna 21</td>
+        <td>Coluna 22</td>
+        <td>Coluna 23</td>
+        <td>Coluna 24</td>
+        <td>Coluna 25</td>
+        <td>Coluna 26</td>
+        <td>Coluna 27</td>
+        <td>Coluna 28</td>
+        <td>Coluna 29</td>
+        <td>Coluna 30</td>
+    </table>
+
+
+    <table class="table tabel-striped table-hover table-sucess table-bordered table-responsive">
+        <td>Coluna 1</td>
+        <td>Coluna 2</td>
+        <td>Coluna 3</td>
+        <td>Coluna 4</td>
+        <td>Coluna 5</td>
+        <td>Coluna 6</td>
+        <td>Coluna 7</td>
+        <td>Coluna 8</td>
+        <td>Coluna 9</td>
+        <td>Coluna 10</td>
+        <td>Coluna 11</td>
+        <td>Coluna 12</td>
+        <td>Coluna 13</td>
+        <td>Coluna 14</td>
+        <td>Coluna 15</td>
+        <td>Coluna 16</td>
+        <td>Coluna 17</td>
+        <td>Coluna 18</td>
+        <td>Coluna 19</td>
+        <td>Coluna 20</td>
+        <td>Coluna 21</td>
+        <td>Coluna 22</td>
+        <td>Coluna 23</td>
+        <td>Coluna 24</td>
+        <td>Coluna 25</td>
+        <td>Coluna 26</td>
+        <td>Coluna 27</td>
+        <td>Coluna 28</td>
+        <td>Coluna 29</td>
+        <td>Coluna 30</td>
+    </table>
+</div>
+
+
+</body>
+
+</html>
