@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+</head>
+
+<!--
+Margem e padding
+mt - margin top
+ms - margin start
+mb - margin bottom
+me - margin end
+
+pt - padding top
+ps - padding start
+pe - padding end
+pb - padding bottom
+
+SE ESTIVER ERRADO VERIFICAR NO BOOSTRAP SITE
+-->
+
+<body>
+    <div class="container">
+        <p class="text-bg-dark ms-5 pt-5">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni, sapiente culpa quidem aut ut suscipit totam assumenda eum ex id labore error cupiditate. Cumque fuga a officia! Iure voluptatem at delectus eaque consequuntur culpa, reiciendis alias cumque omnis rerum, possimus, aliquam quas earum voluptatum debitis enim dolores maxime minus?
+        </p>
+
+        <p class="text-bg-dark mt-5 pt-2">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni, sapiente culpa quidem aut ut suscipit totam 
+            assumenda eum ex id labore error cupiditate. Cumque fuga a officia! Iure voluptatem at delectus eaque consequuntur culpa, 
+            reiciendis alias cumque omnis rerum, possimus, aliquam quas earum voluptatum debitis enim dolores maxime minus?
+        </p>
+
+        <p class="text-bg-primary me-20 pb-4">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum debitis molestias beatae non consequatur nulla quisquam nemo, quod illo nam praesentium suscipit et culpa, cumque labore incidunt fuga molestiae commodi tempore excepturi aspernatur laudantium quasi hic obcaecati. Quo, a itaque!
+        </p>
+    </div>
+</body>
+
+
+</html>
