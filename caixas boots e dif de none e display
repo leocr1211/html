@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>boostrap divs e cores</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+    <style>
+        .row{
+            color: black;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <!--
+    <div class="p-5 bg-danger"></div>
+    <div class="p-4 col-3 d-inline-block bg-primary"></div>
+    <div class="p-4 col-3 d-inline-block bg-success"></div>
+    <div class="p-4 col-3 d-inline-block bg-warning"></div>
+    Inline, inlineblock, block
+    
+    <div class="p-4 col-3 d-inline-block d-none bg-dark"></div>
+    Esconder div usando display d-none
+    
+    <div class="p-4 col-3 d-none d-ig-inline-block bg-success"></div>
+    Dependendo da sua resolução especialmente se for "lg" as cores somem
+    -->
+    
+
+    <!--d-print-none server para que quando for impirmimir o site nao precisar gastar tinta com o cabeçalho-->
+
+
+<!--
+    <header class="p-3 text-bg-dark d-print-none">
+        <div class="container">
+            <h1 class="display-1">Cabeçalho</h1>
+        </div>
+    </header>
+
+    <article class="container py-3">
+        <h1>Título do Artigo</h1>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate soluta sit voluptas molestiae mollitia maiores, enim minus dolorem illum repellat! Dolorum praesentium eos iste animi. Autem quaerat deleniti dolorum possimus voluptate fugit, tempora natus. Debitis cum iusto pariatur sequi? Excepturi saepe, neque nesciunt error voluptatum exercitationem similique maiores dicta
+        </p>
+        
+        <p>impedit veniam minus ad mollitia est tenetur sapiente distinctio tempora architecto aut quis. Itaque ratione optio minus deleniti cum quibusdam. Aut ad cumque nobis dicta, voluptatum, distinctio eveniet, ut placeat quidem sit fugit dolorum nostrum eaque rerum eligendi a alias ipsa quas. Quam, voluptates facere veniam ullam fuga accusamus tempora, quasi assumenda consequuntur modi numquam eaque et. Ex, veritatis cupiditate. Nisi maxime ea laborum, ab explicabo sed ut temporibus, voluptate a repellendus
+        </p>
+
+        <p> sunt dicta nesciunt aliquam, voluptatibus adipisci ullam labore debitis quo cupiditate. Non odio quia, expedita iste, soluta sequi minima explicabo magni amet modi dolores iusto vero consequuntur doloribus vitae! Asperiores nesciunt, magnam dolores nobis enim animi pariatur obcaecati. Consequuntur officiis laborum magni pariatur rerum, ab perspiciatis eaque facilis in iste nesciunt voluptate reprehenderit aspernatur et inventore assumenda explicabo architecto. Reiciendis error tenetur beatae commodi autem vero
+        </p> 
+
+        <p>vitae odio, consequuntur fuga, perferendis facilis libero doloremque officia alias nisi provident?</p>
+
+        <p class="d-none d-print-block">Font</p>
+    </article>
+-->
+<!--
+    <div class="p-4 m-3 bg-primary"></div>
+    <div class="p-4 m-3 bg-success invisible"></div>
+    inviible a caixa existe mais não aparece diferentemente do display none
+    <div class="p-4 m-3 bg-warning"></div>
+-->
+<!--    <div class="container bg-info mt-3">
+        
+        <div class="row">
+
+            <div class="border p-2 col-3">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, sed. Molestias eos aperiam architecto recusandae repudiandae sint, necessitatibus fugiat repellendus. Dignissimos, molestiae quaerat? Vero amet unde magni suscipit cumque iste nihil, nesciunt rem eum asperiores, consequuntur incidunt nam corrupti id porro commodi harum nulla earum ratione! Dolores nesciunt suscipit similique expedita veniam cupiditate voluptatibus voluptate earum illo beatae excepturi vitae odit perspiciatis distinctio repellat rem laboriosam, labore dolorem amet. Error hic porro, eveniet laboriosam fuga blanditiis a possimus assumenda. Eaque sunt sed deserunt alias obcaecati voluptatum nostrum, sapiente in libero dolore, quae suscipit iure enim quasi dicta voluptates cum cumque. Necessitatibus ad voluptates impedit rem minus quidem ullam labore. Nobis non deserunt voluptates porro itaque soluta nisi natus quod laboriosam aperiam, reprehenderit, earum quidem, beatae dolor nostrum error mollitia! Nemo eveniet dolorum reprehenderit fuga deserunt autem assumenda totam voluptas adipisci! Adipisci velit perferendis culpa quidem architecto recusandae consectetur, officiis magnam aperiam praesentium maxime molestiae delectus facere nihil eligendi? Placeat corrupti esse unde nulla consectetur facilis modi, eius aut explicabo id itaque temporibus ratione minima magnam hic molestiae at voluptatibus cum quaerat dolorum? Nemo facilis ratione inventore accusamus ullam doloremque earum, enim atque laborum voluptatum distinctio facere quae. Aperiam, sapiente error.
+            </div>
+
+            <div class="border p-2 col-3">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam doloribus ea, quo laudantium architecto deserunt voluptatum perferendis! Veritatis cum dolore molestias soluta doloremque molestiae facilis, officiis voluptas possimus. Neque culpa delectus soluta nisi. Maiores aliquid cumque inventore dolore pariatur, tenetur, labore eligendi, deleniti numquam facere odit totam necessitatibus? Suscipit ex eaque quia fugit accusantium. Voluptas accusantium impedit id aliquam quidem saepe autem placeat alias, voluptatibus iste est, magnam quia, molestias dolores vel cumque at in recusandae laborum rerum praesentium necessitatibus fugit sit? Sequi sint unde officia, in nesciunt, architecto culpa vitae hic neque numquam iure error incidunt qui id vel?
+            </div>
+            
+            <div class="border p-2 col-3">
+                Lorem ipsum dolor sit amet
+                voluptatum perferendis! Veritatis cum dolore molestias soluta doloremque molestiae facilis, officiis voluptas possim
+                Neque culpa delectus soluta nisi. Maiores aliquid cumque inventore dolore pariatur, tenetur, labore eligendi, deleniti 
+                numquam facere odit totam necessitatibus? Suscipit ex eaque quia fugit accusantium. Voluptas accusantium impedit id ali
+                quidem saepe autem placeat alias, voluptatibus iste est, magnam quia, molestias dolores vel cumque at in recusandae laborum 
+                rerum praesentium necessitatibus fugit sit? Sequi sint unde officia, in nesciunt, architecto culpa vitae hic neque numquam 
+                iure error incidunt qui id vel?
+            </div>
+
+        </div>
+
+    </div>
+-->
+</body>
+
+
+</html>
