@@ -31,14 +31,14 @@
             <butto class="btn btn-success">Botão 3</butto>
         </div>
     
-    <div class="btn-group">
-        <input type="radio" name="grupo" id="btn1" class="btn-check">
+    <div class="btn-group"><!--O nome "grupo" é o que faz um único botão ser clicavel-->
+        <input type="checkbox" name="grupo" id="btn1" class="btn-check">
         <label for="btn1" class="btn btn-outline-primary">botao de checagem</label>
 
-        <input type="radio" name="grupo" id="btn2" class="btn-check">
+        <input type="checkbox" name="grup" id="btn2" class="btn-check">
         <label for="btn2" class="btn btn-outline-primary">botao de checagem 2</label>
 
-        <input type="radio" name="grupo" id="btn3" class="btn-check">
+        <input type="checkbox" name="gr" id="btn3" class="btn-check">
         <label for="btn3" class="btn btn-outline-primary">botao de checagem 3</label>
     </div>
 </div>
