@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container py-5">
+
+        <!-- Criando um Card -->
+        <div class="card col-8">
+
+
+            <div class="row g-0">
+
+                <!-- Inserindo uma imagem que ocupa 4 colunas -->
+                 <div class="col-4">
+                    <img src="https://picsum.photos/400/400" alt="" class="img-fluid rounded-start w-100">
+                 </div>
+
+                 <!-- Criando o corpo do card que ocupa 8 colunas -->
+                  <div class="col-8">
+                    <div class="card-body">
+                        <h5 class="card-title">Título do Card</h5>
+                        <h6 class="card-subtitle">Subtítulo do Card</h6>
+                        <p class="card-text">
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, nesciunt? Animi aliquid sequi dolores, corporis ut rerum voluptas maxime magni vitae, doloribus quae velit quis enim fugit recusandae totam? Repudiandae.
+                        </p>
+                        <a href="" class="card-link">Link 1</a>
+                        <a href="" class="card-link">Link 2</a>
+                        <a href="" class="card-link">Link 3</a>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+    <hr>
+
+    <div class="col-4 text-bg-dark">
+
+        <img src="https://picsum.photos/400/400" alt="" class="img-fluid rounded-start w-100">
+
+        <h4 class="card-header">Cabeçalho</h4>
+
+        <div class="card-body">
+            <h5 class="card-title">Título do Card</h5>
+            <h6 class="card-subtitle">Subtítulo do Card</h6>
+            <p class="card-text">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, nesciunt? Animi aliquid sequi dolores, corporis ut rerum voluptas maxime magni vitae, doloribus quae velit quis enim fugit recusandae totam? Repudiandae.
+            </p>
+            <a href="" class="card-link">Link 1</a>
+            <a href="" class="card-link">Link 2</a>
+            <a href="" class="card-link">Link 3</a>
+        </div>
+
+        <div class="container py-5">
+
+            <div class="card-group"
+            >
+
+                <div class="col">
+                    <div class="card text-bg-dark">
+                        <img src="https://picsum.photos/400/400" alt="" class="card-img-top">
+                        <div class="card-header">Cabeçalho</div>
+                        <div class="card-body">
+                            <h5 class="card-title">Título do Card</h5>
+                            <h6 class="card-subtitle">Subtítulo do Card</h6>
+                            <p class="card-text">
+                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod debitis iure laborum quia sunt ad quos aspernatur in dolore rerum, accusantium sequi alias excepturi aliquid cum doloremque ipsam commodi mollitia.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card text-bg-dark">
+                        <img src="https://picsum.photos/400/400" alt="" class="card-img-top">
+                        <div class="card-header">Cabeçalho</div>
+                        <div class="card-body">
+                            <h5 class="card-title">Título do Card</h5>
+                            <h6 class="card-subtitle">Subtítulo do Card</h6>
+                            <p class="card-text">
+                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod debitis iure laborum quia sunt ad quos aspernatur in dolore rerum, accusantium sequi alias excepturi aliquid cum doloremque ipsam commodi mollitia.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card text-bg-dark">
+                        <img src="https://picsum.photos/400/400" alt="" class="card-img-top">
+                        <div class="card-header">Cabeçalho</div>
+                        <div class="card-body">
+                            <h5 class="card-title">Título do Card</h5>
+                            <h6 class="card-subtitle">Subtítulo do Card</h6>
+                            <p class="card-text">
+                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod debitis iure laborum quia sunt ad quos aspernatur in dolore rerum, accusantium sequi alias excepturi aliquid cum doloremque ipsam commodi mollitia.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>
